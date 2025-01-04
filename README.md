@@ -1,21 +1,27 @@
 ## Hi there 👋
 
-<!--
-**jaewoo9797/jaewoo9797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewoo9797&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=9712jw)](https://solved.ac/9712jw)
+
+---
+
+### 📖 My TIL (Today I Learned)
+[TIL Repository](https://github.com/jaewoo9797/TIL)
+
+This repository contains all my learning records and notes. Feel free to explore and learn with me!
+
+---
+
+### 🌱 Currently Learning
+
+
+---
+
+<div align="center">
+  <a href="https://github.com/jaewoo9797/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaewoo9797&show_icons=true&theme=dark" alt="Jaewoo's GitHub stats"/>
+  </a>
+  <a href="https://solved.ac/9712jw">
+    <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=9712jw" alt="Solved.ac Profile"/>
+  </a>
+</div>
