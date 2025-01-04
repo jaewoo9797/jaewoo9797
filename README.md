@@ -19,7 +19,8 @@ This repository contains all my learning records and notes. Feel free to explore
 ---
 
 ### 🔥 My Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaewoo9797&show_icons=true&theme=dark" alt="Jaewoo's GitHub stats" style="margin-right: 10px;" />
-  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=9712jw" alt="Solved.ac Profile" style="margin-left: 10px;" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaewoo9797&show_icons=true&theme=dark" alt="Jaewoo's GitHub stats" />
+  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=9712jw" alt="Solved.ac Profile" />
 </div>
+
