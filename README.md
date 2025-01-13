@@ -10,12 +10,15 @@
 ### 📖 My TIL (Today I Learned)
 [TIL Repository](https://github.com/jaewoo9797/TIL)
 
-This repository contains all my learning records and notes. Feel free to explore and learn with me!
+This repository contains all my learning records and notes.   
+I githubing what I stuied on this and organize it and post it on my blog!    
+[this is my blog](https://doitwojae.tistory.com/)
 
 ---
 
 ### 🌱 Currently Learning
 
+- Java
 
 ---
 
