@@ -22,6 +22,7 @@ I githubing what I stuied on this and organize and post it on my blog!
 ## 🌱 Currently Learning
 
 - Java
+- JPA
 
 
 
