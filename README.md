@@ -5,6 +5,7 @@
 
 - Java
 - JPA
+- MySQL
 
 ## 🧭 Principles
 1. Pass all tests.
