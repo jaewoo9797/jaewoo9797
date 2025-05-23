@@ -8,7 +8,7 @@
 
 ## 🧭 Principles
 1. Pass all tests.
-2. Contain no duplication.
+2. Minimize duplication.
 3. Clearly express the programmer's intent.
-4. Use as few classes and methods as possible.
+4. Use as few elements as possible.
   
