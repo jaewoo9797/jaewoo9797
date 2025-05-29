@@ -6,6 +6,7 @@
 - Java
 - JPA
 - MySQL
+- Computer Science
 
 ## 🧭 Principles
 1. Pass all tests.
